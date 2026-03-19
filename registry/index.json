@@ -1,0 +1,29 @@
+{
+  "packages": {
+    "mathkit": {
+      "latest": "2.0.0",
+      "description": "Math utility functions: add, subtract, multiply, divide, power, clamp, average, factorial, is_even, is_odd, sum_list",
+      "author": "Verba",
+      "license": "MIT",
+      "versions": {
+        "1.0.0": {
+          "url": "https://raw.githubusercontent.com/innocent0-mash/verba-packages/main/packages/mathkit/mathkit-1.0.0.vrb"
+        },
+        "2.0.0": {
+          "url": "https://raw.githubusercontent.com/innocent0-mash/verba-packages/main/packages/mathkit/mathkit-2.0.0.vrb"
+        }
+      }
+    },
+    "verbix_utils": {
+      "latest": "1.0.0",
+      "description": "HTTP response helpers: format_response, is_success, build_auth_header, truncate",
+      "author": "Verba",
+      "license": "MIT",
+      "versions": {
+        "1.0.0": {
+          "url": "https://raw.githubusercontent.com/innocent0-mash/verba-packages/main/packages/verbix_utils/verbix_utils-1.0.0.vrb"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "version": "2.0.0",
+  "alias": "test",
+  "description": "Testing utilities for Verba — assert helpers, string tools, and more.",
+  "versions": ["1.0.0", "1.5.0", "2.0.0"]
+}

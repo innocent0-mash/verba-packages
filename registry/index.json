@@ -14,6 +14,23 @@
         }
       }
     },
+    "test": {
+      "latest": "2.0.0",
+      "description": "Testing utilities: assert_equal, assert_true, assert_false, greet, reverse, repeat",
+      "author": "Verba",
+      "license": "MIT",
+      "versions": {
+        "1.0.0": {
+          "url": "https://raw.githubusercontent.com/innocent0-mash/verba-packages/main/packages/test/test-1.0.0.vrb"
+        },
+        "1.5.0": {
+          "url": "https://raw.githubusercontent.com/innocent0-mash/verba-packages/main/packages/test/test-1.5.0.vrb"
+        },
+        "2.0.0": {
+          "url": "https://raw.githubusercontent.com/innocent0-mash/verba-packages/main/packages/test/test-2.0.0.vrb"
+        }
+      }
+    },
     "verbix_utils": {
       "latest": "1.0.0",
       "description": "HTTP response helpers: format_response, is_success, build_auth_header, truncate",
